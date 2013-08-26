@@ -1,0 +1,2 @@
+[15-Aug-2013 20:58:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/resilie3/public_html/pos/dashboard/pricelist.php on line 155
+[15-Aug-2013 20:58:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/resilie3/public_html/pos/dashboard/pricelist.php on line 155

@@ -1,0 +1,1 @@
+[14-Aug-2013 02:37:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home2/resilie3/public_html/pos/includes/_handledatabase.inc on line 17

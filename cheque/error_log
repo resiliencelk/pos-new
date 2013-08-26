@@ -1,0 +1,3 @@
+[18-Aug-2013 23:39:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/resilie3/public_html/pos/cheque/issuecheque.php on line 124
+[18-Aug-2013 23:42:41] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/resilie3/public_html/pos/cheque/issuecheque.php on line 124
+[18-Aug-2013 23:44:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/resilie3/public_html/pos/cheque/issuecheque.php on line 124

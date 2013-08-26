@@ -1,0 +1,2 @@
+[23-Aug-2013 13:33:47] PHP Warning:  require_once(includes/_handledatabase.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/resilie3/public_html/pos/index.php on line 3
+[23-Aug-2013 13:33:47] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/_handledatabase.inc' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/resilie3/public_html/pos/index.php on line 3
